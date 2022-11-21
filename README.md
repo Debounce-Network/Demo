@@ -6,6 +6,8 @@ The most decentralized data marketplace. Debounce is a sidechain based on EVM th
 ***Don't worry about getting data, focus on your idea.***
 
 
+### Architecture
+![architecture](./architecture.png)
 
 
 
